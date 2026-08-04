@@ -1,0 +1,275 @@
+PL — Licencja TuningWin11 / WoWo89
+
+TuningWin11 / WoWo89 — Licencja użytkowania
+
+Copyright © 2026 WoWo89 / Piotr Zawalka.
+Wszelkie prawa zastrzeżone.
+
+Niniejsza licencja określa warunki korzystania z programu TuningWin11 / WoWo89.
+
+1. Użytek prywatny
+
+Program może być używany bezpłatnie wyłącznie do celów prywatnych, niekomercyjnych.
+
+Użytek prywatny oznacza korzystanie z programu na własnym komputerze lub komputerach należących do użytkownika, bez świadczenia usług na rzecz osób trzecich i bez osiągania z tego tytułu korzyści majątkowych.
+
+2. Użytek komercyjny
+
+Każde użycie programu w celach komercyjnych wymaga wcześniejszego uzyskania płatnej licencji komercyjnej od autora.
+
+Za użytek komercyjny uważa się w szczególności:
+
+używanie programu przez serwisy komputerowe,
+używanie programu przez firmy IT,
+używanie programu przez techników, sklepy komputerowe lub usługodawców,
+używanie programu do konfiguracji, optymalizacji, naprawy lub przygotowania komputerów klientów,
+używanie programu w ramach płatnej usługi,
+używanie programu w działalności gospodarczej, zawodowej lub zarobkowej.
+
+Bez ważnej licencji komercyjnej takie użycie jest zabronione.
+
+3. Zakaz modyfikacji
+
+Zabrania się modyfikowania, edytowania, dekompilowania, rozpakowywania, przerabiania, tłumaczenia, zmieniania kodu, funkcji, interfejsu, plików programu lub jakichkolwiek jego elementów bez pisemnej zgody autora.
+
+4. Zakaz rebrandingu
+
+Zabrania się zmiany nazwy programu, logo, oznaczeń autora, wyglądu marki, informacji o pochodzeniu programu oraz przedstawiania programu jako własnego produktu lub produktu innej osoby, firmy albo marki.
+
+Program nie może być publikowany, reklamowany ani dystrybuowany pod inną nazwą bez pisemnej zgody autora.
+
+5. Zakaz redystrybucji zmodyfikowanych wersji
+
+Zabrania się rozpowszechniania, udostępniania, sprzedawania, publikowania lub przekazywania zmodyfikowanych, przepakowanych, przerobionych albo nieoficjalnych wersji programu.
+
+Dozwolone jest udostępnianie wyłącznie oficjalnej, niezmienionej wersji programu, o ile autor nie postanowi inaczej.
+
+6. Zakaz sprzedaży jako własnego narzędzia
+
+Zabrania się sprzedawania, wynajmowania, licencjonowania, oferowania lub udostępniania programu jako własnego narzędzia, produktu, usługi lub części własnego pakietu oprogramowania bez pisemnej zgody autora.
+
+W szczególności zabronione jest dołączanie programu do własnych płatnych pakietów serwisowych, instalatorów, zestawów narzędzi, obrazów systemu lub usług komercyjnych bez odpowiedniej licencji komercyjnej.
+
+7. Prawa autorskie
+
+Program, jego nazwa, kod, interfejs, grafiki, teksty, skrypty, pliki konfiguracyjne oraz inne elementy pozostają własnością autora, chyba że wyraźnie wskazano inaczej.
+
+Niniejsza licencja nie przenosi na użytkownika praw autorskich ani praw własności do programu.
+
+8. Komponenty zewnętrzne
+
+Jeżeli program zawiera lub pobiera komponenty zewnętrzne, biblioteki, instalatory lub narzędzia firm trzecich, pozostają one objęte własnymi licencjami i warunkami użytkowania.
+
+Niniejsza licencja dotyczy wyłącznie programu TuningWin11 / WoWo89 oraz elementów należących do autora.
+
+9. Brak gwarancji
+
+Program jest dostarczany „taki, jaki jest”, bez jakiejkolwiek gwarancji.
+
+Autor nie gwarantuje, że program będzie działał bezbłędnie, nieprzerwanie, zgodnie z oczekiwaniami użytkownika ani że będzie kompatybilny z każdą wersją systemu Windows, konfiguracją sprzętową lub oprogramowaniem.
+
+10. Użycie na własną odpowiedzialność
+
+Użytkownik korzysta z programu wyłącznie na własną odpowiedzialność.
+
+Program może zmieniać ustawienia systemu Windows, usuwać lub wyłączać wybrane funkcje, modyfikować konfigurację systemową, wymagać uprawnień administratora oraz ponownego uruchomienia komputera.
+
+Autor nie ponosi odpowiedzialności za jakiekolwiek szkody, utratę danych, utratę konfiguracji, problemy z systemem, niestabilność, błędy, awarie, przerwy w pracy, utratę zysków ani inne konsekwencje wynikające z użycia lub niemożności użycia programu.
+
+11. Naruszenie licencji
+
+Naruszenie któregokolwiek z warunków niniejszej licencji powoduje automatyczne wygaśnięcie prawa do korzystania z programu.
+
+Autor zastrzega sobie prawo do dochodzenia roszczeń w przypadku naruszenia praw autorskich, nieuprawnionego użycia komercyjnego, rebrandingu, modyfikacji lub nielegalnej redystrybucji programu.
+
+12. Kontakt w sprawie licencji komercyjnej
+
+W celu uzyskania licencji komercyjnej, zgody na dystrybucję lub innych uprawnień należy skontaktować się z autorem:
+
+WoWo89 / Piotr Zawalka
+Strona: https://wowo89.de
+Strona: https://zawalka.com
+
+EN — TuningWin11 / WoWo89 License
+
+TuningWin11 / WoWo89 — Software License
+
+Copyright © 2026 WoWo89 / Piotr Zawalka.
+All rights reserved.
+
+This license defines the terms and conditions for using TuningWin11 / WoWo89.
+
+1. Personal Use
+
+The software may be used free of charge for private, non-commercial purposes only.
+
+Personal use means using the software on the user’s own computer or computers, without providing services to third parties and without receiving any financial or commercial benefit from such use.
+
+2. Commercial Use
+
+Any commercial use of the software requires a paid commercial license obtained from the author in advance.
+
+Commercial use includes, but is not limited to:
+
+use by computer repair shops,
+use by IT companies,
+use by technicians, computer stores or service providers,
+use for configuring, optimizing, repairing or preparing customers’ computers,
+use as part of a paid service,
+use in any business, professional or income-generating activity.
+
+Such use is prohibited without a valid commercial license.
+
+3. No Modification
+
+You may not modify, edit, decompile, unpack, alter, translate, change the code, functionality, interface, program files or any part of the software without the author’s written permission.
+
+4. No Rebranding
+
+You may not change the software name, logo, author information, branding, origin information or present the software as your own product or as a product of another person, company or brand.
+
+The software may not be published, advertised or distributed under another name without the author’s written permission.
+
+5. No Redistribution of Modified Versions
+
+You may not distribute, share, sell, publish or provide modified, repackaged, altered or unofficial versions of the software.
+
+Only the official, unmodified version of the software may be shared, unless the author explicitly permits otherwise.
+
+6. No Resale as Your Own Tool
+
+You may not sell, rent, license, offer or provide the software as your own tool, product, service or part of your own software package without the author’s written permission.
+
+In particular, the software may not be included in paid service packages, installers, toolkits, system images or commercial services without a valid commercial license.
+
+7. Copyright
+
+The software, its name, code, interface, graphics, texts, scripts, configuration files and other components remain the property of the author, unless explicitly stated otherwise.
+
+This license does not transfer copyright or ownership of the software to the user.
+
+8. Third-Party Components
+
+If the software includes or downloads third-party components, libraries, installers or external tools, those components remain subject to their respective licenses and terms of use.
+
+This license applies only to TuningWin11 / WoWo89 and components owned by the author.
+
+9. No Warranty
+
+The software is provided “as is”, without any warranty of any kind.
+
+The author does not guarantee that the software will work without errors, interruptions, or according to the user’s expectations, nor that it will be compatible with every Windows version, hardware configuration or software environment.
+
+10. Use at Your Own Risk
+
+The user uses the software entirely at their own risk.
+
+The software may change Windows settings, remove or disable selected functions, modify system configuration, require administrator privileges and require a system restart.
+
+The author is not responsible for any damage, data loss, configuration loss, system problems, instability, errors, failures, downtime, loss of profit or any other consequences resulting from the use or inability to use the software.
+
+11. License Violation
+
+Any violation of these license terms automatically terminates the user’s right to use the software.
+
+The author reserves the right to pursue legal claims in case of copyright infringement, unauthorized commercial use, rebranding, modification or illegal redistribution of the software.
+
+12. Commercial License Contact
+
+To obtain a commercial license, distribution permission or other rights, please contact the author:
+
+WoWo89 / Piotr Zawalka
+Website: https://wowo89.de
+Website: https://zawalka.com
+
+DE — TuningWin11 / WoWo89 Lizenz
+
+TuningWin11 / WoWo89 — Softwarelizenz
+
+Copyright © 2026 WoWo89 / Piotr Zawalka.
+Alle Rechte vorbehalten.
+
+Diese Lizenz regelt die Bedingungen für die Nutzung der Software TuningWin11 / WoWo89.
+
+1. Private Nutzung
+
+Die Software darf ausschließlich für private, nicht-kommerzielle Zwecke kostenlos genutzt werden.
+
+Private Nutzung bedeutet die Verwendung der Software auf dem eigenen Computer oder den eigenen Computern des Nutzers, ohne Dienstleistungen für Dritte zu erbringen und ohne daraus einen finanziellen oder kommerziellen Vorteil zu erzielen.
+
+2. Kommerzielle Nutzung
+
+Jede kommerzielle Nutzung der Software erfordert zuvor den Erwerb einer kostenpflichtigen kommerziellen Lizenz vom Autor.
+
+Als kommerzielle Nutzung gilt insbesondere:
+
+die Nutzung durch Computer-Reparaturdienste,
+die Nutzung durch IT-Unternehmen,
+die Nutzung durch Techniker, Computergeschäfte oder Dienstleister,
+die Nutzung zur Konfiguration, Optimierung, Reparatur oder Vorbereitung von Kundencomputern,
+die Nutzung im Rahmen einer kostenpflichtigen Dienstleistung,
+die Nutzung im Rahmen einer gewerblichen, beruflichen oder gewinnorientierten Tätigkeit.
+
+Ohne gültige kommerzielle Lizenz ist eine solche Nutzung untersagt.
+
+3. Verbot von Änderungen
+
+Es ist untersagt, die Software ohne schriftliche Genehmigung des Autors zu verändern, zu bearbeiten, zu dekompilieren, zu entpacken, umzubauen, zu übersetzen oder den Code, die Funktionen, die Benutzeroberfläche, Programmdateien oder andere Bestandteile der Software zu ändern.
+
+4. Verbot von Rebranding
+
+Es ist untersagt, den Namen der Software, das Logo, Autorenhinweise, Markenauftritt, Herkunftshinweise oder sonstige Kennzeichnungen zu ändern oder die Software als eigenes Produkt oder als Produkt einer anderen Person, Firma oder Marke darzustellen.
+
+Die Software darf ohne schriftliche Genehmigung des Autors nicht unter einem anderen Namen veröffentlicht, beworben oder verbreitet werden.
+
+5. Verbot der Weiterverbreitung geänderter Versionen
+
+Es ist untersagt, geänderte, neu verpackte, bearbeitete oder inoffizielle Versionen der Software zu verbreiten, bereitzustellen, zu verkaufen, zu veröffentlichen oder weiterzugeben.
+
+Es darf ausschließlich die offizielle, unveränderte Version der Software weitergegeben werden, sofern der Autor nichts anderes ausdrücklich erlaubt.
+
+6. Verbot des Verkaufs als eigenes Werkzeug
+
+Es ist untersagt, die Software ohne schriftliche Genehmigung des Autors als eigenes Werkzeug, Produkt, Dienstleistung oder Bestandteil eines eigenen Softwarepakets zu verkaufen, zu vermieten, zu lizenzieren, anzubieten oder bereitzustellen.
+
+Insbesondere darf die Software ohne gültige kommerzielle Lizenz nicht in kostenpflichtige Servicepakete, Installationsprogramme, Toolkits, System-Images oder kommerzielle Dienstleistungen eingebunden werden.
+
+7. Urheberrecht
+
+Die Software, ihr Name, Quellcode, ihre Benutzeroberfläche, Grafiken, Texte, Skripte, Konfigurationsdateien und sonstige Bestandteile bleiben Eigentum des Autors, sofern nicht ausdrücklich etwas anderes angegeben ist.
+
+Diese Lizenz überträgt dem Nutzer keine Urheberrechte und kein Eigentum an der Software.
+
+8. Komponenten Dritter
+
+Falls die Software Komponenten, Bibliotheken, Installationsprogramme oder externe Werkzeuge Dritter enthält oder herunterlädt, unterliegen diese weiterhin ihren jeweiligen Lizenzen und Nutzungsbedingungen.
+
+Diese Lizenz gilt ausschließlich für TuningWin11 / WoWo89 sowie für Bestandteile, die Eigentum des Autors sind.
+
+9. Keine Gewährleistung
+
+Die Software wird „wie sie ist“ bereitgestellt, ohne jegliche Gewährleistung.
+
+Der Autor übernimmt keine Garantie dafür, dass die Software fehlerfrei, unterbrechungsfrei oder gemäß den Erwartungen des Nutzers funktioniert oder mit jeder Windows-Version, Hardwarekonfiguration oder Softwareumgebung kompatibel ist.
+
+10. Nutzung auf eigenes Risiko
+
+Der Nutzer verwendet die Software ausschließlich auf eigenes Risiko.
+
+Die Software kann Windows-Einstellungen ändern, ausgewählte Funktionen entfernen oder deaktivieren, Systemkonfigurationen verändern, Administratorrechte erfordern und einen Neustart des Systems notwendig machen.
+
+Der Autor haftet nicht für Schäden, Datenverlust, Verlust von Einstellungen, Systemprobleme, Instabilität, Fehler, Ausfälle, Betriebsunterbrechungen, entgangenen Gewinn oder sonstige Folgen, die aus der Nutzung oder der Unmöglichkeit der Nutzung der Software entstehen.
+
+11. Lizenzverletzung
+
+Ein Verstoß gegen eine Bedingung dieser Lizenz führt automatisch zum Erlöschen des Nutzungsrechts.
+
+Der Autor behält sich das Recht vor, bei Urheberrechtsverletzungen, unberechtigter kommerzieller Nutzung, Rebranding, Änderungen oder illegaler Weiterverbreitung der Software rechtliche Ansprüche geltend zu machen.
+
+12. Kontakt für kommerzielle Lizenz
+
+Für den Erwerb einer kommerziellen Lizenz, eine Genehmigung zur Verbreitung oder sonstige Rechte kontaktieren Sie bitte den Autor:
+
+WoWo89 / Piotr Zawalka
+Webseite: https://wowo89.de
+Webseite: https://zawalka.com
